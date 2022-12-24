@@ -5,7 +5,7 @@
   "Steps to Reproduce"  : {
           "Step1" : "Launch Login Dialog",
           "Step2" : "Valid Username field",
-          "Step3" : "Valid Password",
+          "Step3" : "Valid Password field",
           "Step4" : "Click login button"
       },
   "Expected Result"     : "User successfully logged into the application",
